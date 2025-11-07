@@ -20,17 +20,10 @@
 
 ---
 
-### 🌱 Projects
-- [Product Management System](https://github.com/yourusername/project1)
-- [Travel Vlog Website](https://github.com/yourusername/project2)
-- [Admin Dashboard (Metronic)](https://github.com/yourusername/project3)
-
----
-
 ### 📫 Contact
-📧 Email: your@email.com  
-💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)  
-📷 [Instagram](https://instagram.com/yourinsta)
+📧 Email: geethmihidum@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/geethmihidum)  
+📷 [Instagram](https://instagram.com/desh_m)
 
 ---
 
