@@ -28,8 +28,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,html,css,vscode,github,js,py,MySQL" />
-    <img src="https://skillicons.dev/icons?i=ableton,ansible,mysql,aws,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=php,html,css,vscode,github,js,py,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=firebase,java,mysql,react,arduino,androidstudio" /><br>
 </div>
 
 <br/>
