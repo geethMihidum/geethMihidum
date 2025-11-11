@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src ="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monoton&pause=1000&color=F79136&center=true&vCenter=true&width=435&lines=Hi+there!;I'm+Geeth+Mihidum." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&pause=1000&color=F79136&center=true&vCenter=true&width=435&lines=Hi+there!;I'm+Geeth+Mihidum." alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate juniour software developer from Sri Lanka </h3>
