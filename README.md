@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Theja+Nethmina!;" />
 </h1>
 
-<h3 align="center">A passionate CS student from Sri Lanka </h3>
+<h3 align="center">A passionate juniour software developer from Sri Lanka </h3>
 
 <br/>
 
@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a Web Application**
  
- 🌱 I’m currently learning **Kubernetes, Jira, AWS**
+ 🌱 I’m currently learning **Python**
 
 ⚡ Fun fact **Bananas are berries, but strawberries aren't.**
 
