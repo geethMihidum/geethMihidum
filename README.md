@@ -1,8 +1,6 @@
 <h1 align="center">
-    <img src ="https://www.canva.com/design/DAG4aEF98jM/26UWmTQk49qkO7B4KbyXgQ/watch?utm_content=DAG4aEF98jM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2b38cb331e"/>
+    <img src ="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monoton&pause=1000&color=F79136&center=true&vCenter=true&width=435&lines=Hi+there!;I'm+Geeth+Mihidum." alt="Typing SVG" />
 </h1>
-    <img src="https://www.canva.com/design/DAG4aEF98jM/26UWmTQk49qkO7B4KbyXgQ/watch?utm_content=DAG4aEF98jM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2b38cb331e" />
-
 
 <h3 align="center">A passionate juniour software developer from Sri Lanka </h3>
 
